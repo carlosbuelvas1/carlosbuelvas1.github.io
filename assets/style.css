@@ -58,3 +58,4 @@ html[data-lang=en] [lang=es]{display:none!important}html[data-lang=es] [lang=en]
 .gal.feat img{height:auto;aspect-ratio:3/4;max-height:420px;object-fit:cover;object-position:center 18%}
 .gal.feat figcaption{font-size:1rem;padding:10px 14px 12px}
 @media(min-width:760px){.gal.feat{max-width:24rem}.gal.feat img{max-height:480px}}
+.gal.vol img{height:240px;object-position:center 30%}
